@@ -95,6 +95,15 @@ MaternAI is an AI-powered maternal health assistant designed to provide guidance
 
 <img width="519" alt="Screenshot 2025-03-07 at 12 07 16 PM" src="https://github.com/user-attachments/assets/9527d83d-87b0-4f68-ba37-c7c2c7a3409a" />
 
+## Future Enhancements
+
+- Advanced Risk Assessment using AI models
+
+- Multilingual Support for better accessibility
+
+- Mobile-Friendly Interface
+
+
 ## 📜 License
 
 This project is licensed under the MIT License.
@@ -106,4 +115,5 @@ Akanksha Bhimte (Lead Developer)
 ## 🌟 Acknowledgments
 
 ### Inspired by the need for better maternal health support using AI.
+
 
