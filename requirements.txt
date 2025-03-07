@@ -1,0 +1,6 @@
+streamlit
+requests
+speechrecognition
+pyttsx3
+pyaudio
+flask
